@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T12:19:53.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Xq4CkF-ZRWd-Ip7AH8iZ" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T12:23:03.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7j94qJeRIEytl8Oeh56i" version="24.0.7" type="github">
   <diagram name="Halaman-1" id="c04F6M150yEZKeXTSN4I">
     <mxGraphModel dx="1134" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,10 +37,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-PNT7uCd4FLXK4V7EnVz-9" value="All Apple Quality is&amp;nbsp;&lt;div&gt;Good&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="400" width="150" height="130" as="geometry" />
+          <mxGeometry x="367.5" y="360" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="-PNT7uCd4FLXK4V7EnVz-10" value="Moving Apples to the Production Division" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="410" width="200" height="110" as="geometry" />
+          <mxGeometry x="600" y="370" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-PNT7uCd4FLXK4V7EnVz-13" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="68" width="40" height="30" as="geometry" />
@@ -49,10 +49,10 @@
           <mxGeometry x="440" y="158" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-PNT7uCd4FLXK4V7EnVz-18" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="438" width="40" height="30" as="geometry" />
+          <mxGeometry x="280" y="398" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-PNT7uCd4FLXK4V7EnVz-20" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="430" width="40" height="30" as="geometry" />
+          <mxGeometry x="530" y="390" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
